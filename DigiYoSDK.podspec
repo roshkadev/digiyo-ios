@@ -1,7 +1,7 @@
 # DigiYoSDK.podspec - For Cocoapods Distribution using Git Source
 
 Pod::Spec.new do |spec|
-  spec.name         = 'DigiYo'
+  spec.name         = 'DigiYoSDK'
   spec.version      = '1.0.0'
   spec.summary      = 'DigiYoSDK: Multiplatform for BioID'
   spec.homepage     = 'https://github.com/roshkadev/digiyo-ios' # Use the public HTTPS URL here
